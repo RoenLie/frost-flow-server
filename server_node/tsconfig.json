@@ -8,9 +8,11 @@
       "strict": true,
    },
    "includes": [
-      "**/*"
+      "**/*.ts",
+      "**/*.d.ts"
    ],
    "exclude": [
+      "./dist",
       "./build",
       "./node_modules"
    ]

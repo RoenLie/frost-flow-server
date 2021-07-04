@@ -1,5 +1,7 @@
 import postgres from "postgres";
 
+export type PostGresConnection = () => postgres.Sql<{}>;
+
 export const connect = () => postgres( {
    host: "localhost",
    port: 5432,
