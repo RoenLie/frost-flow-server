@@ -11,7 +11,10 @@ import { createDynStatic } from "./utilities/createDynStatic";
  */
 const app = express();
 
-
+/**
+ * Format json responses to look nicer
+ */
+app.set( "json spaces", 4 );
 /**
  * Enable response body decoder
  */
@@ -23,6 +26,7 @@ app.use( express.urlencoded( { extended: true } ) );
  * Allowed cors origins
  */
 var allowedOrigins = [
+   "http://localhost:4200",
    "http://localhost:8025",
    "http://roenlie.com",
    "http://81.166.139.5"

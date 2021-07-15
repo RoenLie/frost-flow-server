@@ -1,0 +1,1 @@
+import{R as e}from"./vendor.af781945.js";import{S as t}from"./index.ac04f164.js";export default()=>e.createElement("div",{style:{display:"grid",placeItems:"center",height:"100%"}},e.createElement(t,{svgName:"not_found",width:"20rem"}));

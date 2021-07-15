@@ -1,0 +1,1 @@
+import{R as e}from"./vendor.af781945.js";var a="_header_a7rq4_1",t="_test_a7rq4_7";export default({children:r})=>e.createElement(e.Fragment,null,e.createElement("section",{className:a},e.createElement("div",{className:t},"ADMIN LAYOUT")),e.createElement("div",null,r));
