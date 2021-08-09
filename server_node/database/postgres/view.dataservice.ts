@@ -1,7 +1,10 @@
 import { asyncRes, asyncRes2 } from "../../utilities/asyncRes";
 import { PostGresConnection } from "./connect";
 import { formatResult } from "./formatResult";
-import { ViewFieldQueryOptions, ViewObject, ViewOptions, ViewQueryOptions, ViewSection, ViewSectionQueryOptions } from "./types.view.dataservice";
+import {
+   ViewFieldQueryOptions, ViewObject, ViewOptions,
+   ViewQueryOptions, ViewSection, ViewSectionQueryOptions
+} from "./types.view.dataservice";
 
 
 export const getView = async ( connect: PostGresConnection, options: ViewQueryOptions ) => {
@@ -69,6 +72,8 @@ export const getComposedView = async ( connect: PostGresConnection, options: Vie
    const sql = connect();
    const view: ViewObject = { view: {}, section: [], field: [], validation: [] };
 
+   console.log( options );
+
    // ----------------------------
 
    let query = `SELECT * FROM view`;
@@ -77,7 +82,10 @@ export const getComposedView = async ( connect: PostGresConnection, options: Vie
    query += options.name ? ` AND name = '${ options.name }'` : '';
 
    const [ viewResult, viewErr ] = await asyncRes2( sql.unsafe, query );
-   if ( viewErr ) return null;
+   if ( viewErr ) {
+      sql.end();
+      return view;
+   }
 
    view.view = viewResult.find( ( v: any ) =>
       !options.name ? v.name == 'default' : v.name == options.name );
@@ -88,7 +96,10 @@ export const getComposedView = async ( connect: PostGresConnection, options: Vie
    query += ` WHERE view_id = '${ view.view?.sys_id }'`;
 
    const [ sectionRes, sectionErr ] = await asyncRes2( sql.unsafe, query );
-   if ( sectionErr ) return null;
+   if ( sectionErr || !sectionRes.length ) {
+      sql.end();
+      return view;
+   }
 
    view.section = sectionRes.sort( ( a: any, b: any ) => a.order - b.order );
 
@@ -98,7 +109,10 @@ export const getComposedView = async ( connect: PostGresConnection, options: Vie
    query += ` WHERE section_id  IN('${ view.section.map( s => s.sys_id ).join( "','" ) }')`;
 
    const [ fieldRes, fieldErr ] = await asyncRes2( sql.unsafe, query, () => sql.end() );
-   if ( fieldErr ) return null;
+   if ( fieldErr ) {
+      sql.end();
+      return view;
+   }
 
    view.field = fieldRes.reduce( ( carry: any, current: any ) => {
       if ( !carry[ current.section_id ] ) carry[ current.section_id ] = [];
@@ -110,6 +124,11 @@ export const getComposedView = async ( connect: PostGresConnection, options: Vie
    // ----------------------------
 
    return view;
+};
+
+type TUpsertComposedViewOptions = {};
+export const upsertComposedView = async ( connect: PostGresConnection, options: TUpsertComposedViewOptions ) => {
+
 };
 
 

@@ -3,7 +3,7 @@ import mysql from 'mysql2';
 import { AgGridPostGressQueryService } from "../database/postgres/agGridPostGresQueryService";
 import { getDatabaseTypes, getRecordByTableAndId, getRecordFromQuery } from "../database/postgres/recordDataService";
 import { connect } from "../database/postgres/connect";
-import { getComposedView, getView, getViewField, getViewSection, upsertSection } from "../database/postgres/view.dataservice";
+import { getComposedView, getView, getViewField, getViewSection, upsertComposedView, upsertSection } from "../database/postgres/view.dataservice";
 
 
 const router = Router();
@@ -66,8 +66,15 @@ router.get( "/query", async ( request, response ) => {
 
 
 router.get( "/view/get/:table/:name", async ( request, response ) => {
-   const view = await getComposedView( connect, { table: "olympic_winners" } );
+   const { table, name } = request.params;
+   const view = await getComposedView( connect, { table, name } );
    response.json( view );
+} );
+
+router.post( "/view/upsert", async ( request, response ) => {
+   const { table, name } = request.params;
+   const view = await upsertComposedView( connect, { table, name } );
+   response.json( 'hei' );
 } );
 
 

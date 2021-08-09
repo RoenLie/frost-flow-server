@@ -177,6 +177,7 @@ class AgGridPostGressQueryService {
 
    createOrderBy( request: any ) {
       const { sortModel, rowGroupCols, groupKeys } = request;
+      console.log( request );
 
       const grouping = this.isDoingGrouping( rowGroupCols, groupKeys );
 

@@ -26,7 +26,9 @@ app.use( express.urlencoded( { extended: true } ) );
  * Allowed cors origins
  */
 var allowedOrigins = [
+   "http://localhost:6006",
    "http://localhost:4200",
+   "http://localhost:4300",
    "http://localhost:8025",
    "http://roenlie.com",
    "http://81.166.139.5"
