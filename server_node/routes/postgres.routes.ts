@@ -4,6 +4,7 @@ import { AgGridPostGressQueryService } from "../database/postgres/agGridPostGres
 import { getDatabaseTypes, getRecordByTableAndId, getRecordFromQuery } from "../database/postgres/recordDataService";
 import { connect } from "../database/postgres/connect";
 import { getComposedView, getView, getViewField, getViewSection, upsertComposedView, upsertSection } from "../database/postgres/view.dataservice";
+import { getColumnsFromTable } from "../database/postgres/getColumnsFromTable";
 
 
 const router = Router();
@@ -64,6 +65,12 @@ router.get( "/query", async ( request, response ) => {
    response.json( view );
 } );
 
+router.get( '/columns/:table', async ( request, response ) => {
+   const { table } = request.params;
+   const columns = await getColumnsFromTable( connect, table );
+   response.json( columns );
+} );
+
 
 router.get( "/view/get/:table/:name", async ( request, response ) => {
    const { table, name } = request.params;
@@ -73,8 +80,8 @@ router.get( "/view/get/:table/:name", async ( request, response ) => {
 
 router.post( "/view/upsert", async ( request, response ) => {
    const { table, name } = request.params;
-   const view = await upsertComposedView( connect, { table, name } );
-   response.json( 'hei' );
+   const view = await upsertComposedView( connect, request.body );
+   response.json( view );
 } );
 
 
@@ -109,16 +116,6 @@ router.get( "/viewfield", async ( request, response ) => {
    } );
 
    response.json( views );
-} );
-
-
-router.get( "/view/section/upsert", async ( request, response ) => {
-   const section = await upsertSection( connect, {
-      name: "test",
-      section_order: 10
-   } );
-
-   response.json( section );
 } );
 
 
