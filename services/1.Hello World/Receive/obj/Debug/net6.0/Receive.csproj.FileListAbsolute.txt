@@ -1,0 +1,17 @@
+C:\Programming\projects\frost-flow\frost-flow-server\services\Receive\bin\Debug\net6.0\Receive.exe
+C:\Programming\projects\frost-flow\frost-flow-server\services\Receive\bin\Debug\net6.0\Receive.deps.json
+C:\Programming\projects\frost-flow\frost-flow-server\services\Receive\bin\Debug\net6.0\Receive.runtimeconfig.json
+C:\Programming\projects\frost-flow\frost-flow-server\services\Receive\bin\Debug\net6.0\Receive.dll
+C:\Programming\projects\frost-flow\frost-flow-server\services\Receive\bin\Debug\net6.0\Receive.pdb
+C:\Programming\projects\frost-flow\frost-flow-server\services\Receive\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Programming\projects\frost-flow\frost-flow-server\services\Receive\obj\Debug\net6.0\Receive.csproj.AssemblyReference.cache
+C:\Programming\projects\frost-flow\frost-flow-server\services\Receive\obj\Debug\net6.0\Receive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\projects\frost-flow\frost-flow-server\services\Receive\obj\Debug\net6.0\Receive.AssemblyInfoInputs.cache
+C:\Programming\projects\frost-flow\frost-flow-server\services\Receive\obj\Debug\net6.0\Receive.AssemblyInfo.cs
+C:\Programming\projects\frost-flow\frost-flow-server\services\Receive\obj\Debug\net6.0\Receive.ImplicitNamespaceImports.cs
+C:\Programming\projects\frost-flow\frost-flow-server\services\Receive\obj\Debug\net6.0\Receive.csproj.CoreCompileInputs.cache
+C:\Programming\projects\frost-flow\frost-flow-server\services\Receive\obj\Debug\net6.0\Receive.dll
+C:\Programming\projects\frost-flow\frost-flow-server\services\Receive\obj\Debug\net6.0\refint\Receive.dll
+C:\Programming\projects\frost-flow\frost-flow-server\services\Receive\obj\Debug\net6.0\Receive.pdb
+C:\Programming\projects\frost-flow\frost-flow-server\services\Receive\obj\Debug\net6.0\Receive.genruntimeconfig.cache
+C:\Programming\projects\frost-flow\frost-flow-server\services\Receive\obj\Debug\net6.0\ref\Receive.dll

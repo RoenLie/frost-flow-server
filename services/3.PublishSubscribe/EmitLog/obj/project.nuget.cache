@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gpKsAwG/olY4UZ+Eo5CY1uapaRIUltVb8Ov9kfHoQSOs5av0yDoFF76HPJeEYgLgF8JnJZWOnU3C4Lo0dB3Hpw==",
+  "success": true,
+  "projectFilePath": "C:\\Programming\\projects\\frost-flow\\frost-flow-server\\services\\3.PublishSubscribe\\EmitLog\\EmitLog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roen\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\Roen\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Roen\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Programming\projects\frost-flow\frost-flow-server\services\NewTask\bin\Debug\net6.0\NewTask.exe
+C:\Programming\projects\frost-flow\frost-flow-server\services\NewTask\bin\Debug\net6.0\NewTask.deps.json
+C:\Programming\projects\frost-flow\frost-flow-server\services\NewTask\bin\Debug\net6.0\NewTask.runtimeconfig.json
+C:\Programming\projects\frost-flow\frost-flow-server\services\NewTask\bin\Debug\net6.0\NewTask.dll
+C:\Programming\projects\frost-flow\frost-flow-server\services\NewTask\bin\Debug\net6.0\NewTask.pdb
+C:\Programming\projects\frost-flow\frost-flow-server\services\NewTask\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Programming\projects\frost-flow\frost-flow-server\services\NewTask\obj\Debug\net6.0\NewTask.csproj.AssemblyReference.cache
+C:\Programming\projects\frost-flow\frost-flow-server\services\NewTask\obj\Debug\net6.0\NewTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\projects\frost-flow\frost-flow-server\services\NewTask\obj\Debug\net6.0\NewTask.AssemblyInfoInputs.cache
+C:\Programming\projects\frost-flow\frost-flow-server\services\NewTask\obj\Debug\net6.0\NewTask.AssemblyInfo.cs
+C:\Programming\projects\frost-flow\frost-flow-server\services\NewTask\obj\Debug\net6.0\NewTask.ImplicitNamespaceImports.cs
+C:\Programming\projects\frost-flow\frost-flow-server\services\NewTask\obj\Debug\net6.0\NewTask.csproj.CoreCompileInputs.cache
+C:\Programming\projects\frost-flow\frost-flow-server\services\NewTask\obj\Debug\net6.0\NewTask.dll
+C:\Programming\projects\frost-flow\frost-flow-server\services\NewTask\obj\Debug\net6.0\refint\NewTask.dll
+C:\Programming\projects\frost-flow\frost-flow-server\services\NewTask\obj\Debug\net6.0\NewTask.pdb
+C:\Programming\projects\frost-flow\frost-flow-server\services\NewTask\obj\Debug\net6.0\NewTask.genruntimeconfig.cache
+C:\Programming\projects\frost-flow\frost-flow-server\services\NewTask\obj\Debug\net6.0\ref\NewTask.dll

@@ -1,0 +1,17 @@
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\EmitLogDirect\bin\Debug\net6.0\EmitLogDirect.exe
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\EmitLogDirect\bin\Debug\net6.0\EmitLogDirect.deps.json
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\EmitLogDirect\bin\Debug\net6.0\EmitLogDirect.runtimeconfig.json
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\EmitLogDirect\bin\Debug\net6.0\EmitLogDirect.dll
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\EmitLogDirect\bin\Debug\net6.0\EmitLogDirect.pdb
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\EmitLogDirect\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.csproj.AssemblyReference.cache
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.AssemblyInfoInputs.cache
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.AssemblyInfo.cs
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.ImplicitNamespaceImports.cs
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.csproj.CoreCompileInputs.cache
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.dll
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\EmitLogDirect\obj\Debug\net6.0\refint\EmitLogDirect.dll
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.pdb
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\EmitLogDirect\obj\Debug\net6.0\EmitLogDirect.genruntimeconfig.cache
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\EmitLogDirect\obj\Debug\net6.0\ref\EmitLogDirect.dll

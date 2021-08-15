@@ -1,0 +1,17 @@
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\ReceiveLogsDirect\bin\Debug\net6.0\ReceiveLogsDirect.exe
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\ReceiveLogsDirect\bin\Debug\net6.0\ReceiveLogsDirect.deps.json
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\ReceiveLogsDirect\bin\Debug\net6.0\ReceiveLogsDirect.runtimeconfig.json
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\ReceiveLogsDirect\bin\Debug\net6.0\ReceiveLogsDirect.dll
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\ReceiveLogsDirect\bin\Debug\net6.0\ReceiveLogsDirect.pdb
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\ReceiveLogsDirect\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\ReceiveLogsDirect\obj\Debug\net6.0\ReceiveLogsDirect.csproj.AssemblyReference.cache
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\ReceiveLogsDirect\obj\Debug\net6.0\ReceiveLogsDirect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\ReceiveLogsDirect\obj\Debug\net6.0\ReceiveLogsDirect.AssemblyInfoInputs.cache
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\ReceiveLogsDirect\obj\Debug\net6.0\ReceiveLogsDirect.AssemblyInfo.cs
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\ReceiveLogsDirect\obj\Debug\net6.0\ReceiveLogsDirect.ImplicitNamespaceImports.cs
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\ReceiveLogsDirect\obj\Debug\net6.0\ReceiveLogsDirect.csproj.CoreCompileInputs.cache
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\ReceiveLogsDirect\obj\Debug\net6.0\ReceiveLogsDirect.dll
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\ReceiveLogsDirect\obj\Debug\net6.0\refint\ReceiveLogsDirect.dll
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\ReceiveLogsDirect\obj\Debug\net6.0\ReceiveLogsDirect.pdb
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\ReceiveLogsDirect\obj\Debug\net6.0\ReceiveLogsDirect.genruntimeconfig.cache
+C:\Programming\projects\frost-flow\frost-flow-server\services\4.Routing\ReceiveLogsDirect\obj\Debug\net6.0\ref\ReceiveLogsDirect.dll
