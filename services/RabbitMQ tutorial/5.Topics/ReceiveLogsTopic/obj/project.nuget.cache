@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6wFiYjXrVWbWyqCfEfHz0FwMuj9Ddc8txqry146K/tJTesprIfZKA1RmwhXa7q72+LvfRHuWmkSIR0982BhPTA==",
+  "success": true,
+  "projectFilePath": "C:\\Programming\\projects\\frost-flow\\frost-flow-server\\services\\RabbitMQ tutorial\\5.Topics\\ReceiveLogsTopic\\ReceiveLogsTopic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roen\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\Roen\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Roen\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DYV/FBckT/+6H367T3XDvifOT9yTaRizjluHsl4fj9VZ2q7qUOwzA1Tkb7MboWZy4TMOMOU9QKbzBnPD8Neukw==",
+  "success": true,
+  "projectFilePath": "C:\\Programming\\projects\\frost-flow\\frost-flow-server\\services\\RabbitMQ tutorial\\5.Topics\\EmitLogTopic\\EmitLogTopic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roen\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\Roen\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Roen\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
