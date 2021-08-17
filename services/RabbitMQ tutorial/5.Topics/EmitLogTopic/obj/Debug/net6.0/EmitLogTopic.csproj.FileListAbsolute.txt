@@ -10,7 +10,6 @@ C:\Programming\projects\frost-flow\frost-flow-server\services\RabbitMQ tutorial\
 C:\Programming\projects\frost-flow\frost-flow-server\services\RabbitMQ tutorial\5.Topics\EmitLogTopic\obj\Debug\net6.0\EmitLogTopic.AssemblyInfo.cs
 C:\Programming\projects\frost-flow\frost-flow-server\services\RabbitMQ tutorial\5.Topics\EmitLogTopic\obj\Debug\net6.0\EmitLogTopic.ImplicitNamespaceImports.cs
 C:\Programming\projects\frost-flow\frost-flow-server\services\RabbitMQ tutorial\5.Topics\EmitLogTopic\obj\Debug\net6.0\EmitLogTopic.csproj.CoreCompileInputs.cache
-C:\Programming\projects\frost-flow\frost-flow-server\services\RabbitMQ tutorial\5.Topics\EmitLogTopic\obj\Debug\net6.0\EmitLogTopic.csproj.CopyComplete
 C:\Programming\projects\frost-flow\frost-flow-server\services\RabbitMQ tutorial\5.Topics\EmitLogTopic\obj\Debug\net6.0\EmitLogTopic.dll
 C:\Programming\projects\frost-flow\frost-flow-server\services\RabbitMQ tutorial\5.Topics\EmitLogTopic\obj\Debug\net6.0\refint\EmitLogTopic.dll
 C:\Programming\projects\frost-flow\frost-flow-server\services\RabbitMQ tutorial\5.Topics\EmitLogTopic\obj\Debug\net6.0\EmitLogTopic.pdb

@@ -1,0 +1,13 @@
+C:\Programming\projects\frost-flow\frost-flow-server\services\MassTransit\MassTransitExperiment\TransitModels\bin\Debug\net6.0\TransitModels.deps.json
+C:\Programming\projects\frost-flow\frost-flow-server\services\MassTransit\MassTransitExperiment\TransitModels\bin\Debug\net6.0\TransitModels.dll
+C:\Programming\projects\frost-flow\frost-flow-server\services\MassTransit\MassTransitExperiment\TransitModels\bin\Debug\net6.0\ref\TransitModels.dll
+C:\Programming\projects\frost-flow\frost-flow-server\services\MassTransit\MassTransitExperiment\TransitModels\bin\Debug\net6.0\TransitModels.pdb
+C:\Programming\projects\frost-flow\frost-flow-server\services\MassTransit\MassTransitExperiment\TransitModels\obj\Debug\net6.0\TransitModels.csproj.AssemblyReference.cache
+C:\Programming\projects\frost-flow\frost-flow-server\services\MassTransit\MassTransitExperiment\TransitModels\obj\Debug\net6.0\TransitModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\projects\frost-flow\frost-flow-server\services\MassTransit\MassTransitExperiment\TransitModels\obj\Debug\net6.0\TransitModels.AssemblyInfoInputs.cache
+C:\Programming\projects\frost-flow\frost-flow-server\services\MassTransit\MassTransitExperiment\TransitModels\obj\Debug\net6.0\TransitModels.AssemblyInfo.cs
+C:\Programming\projects\frost-flow\frost-flow-server\services\MassTransit\MassTransitExperiment\TransitModels\obj\Debug\net6.0\TransitModels.ImplicitNamespaceImports.cs
+C:\Programming\projects\frost-flow\frost-flow-server\services\MassTransit\MassTransitExperiment\TransitModels\obj\Debug\net6.0\TransitModels.csproj.CoreCompileInputs.cache
+C:\Programming\projects\frost-flow\frost-flow-server\services\MassTransit\MassTransitExperiment\TransitModels\obj\Debug\net6.0\TransitModels.dll
+C:\Programming\projects\frost-flow\frost-flow-server\services\MassTransit\MassTransitExperiment\TransitModels\obj\Debug\net6.0\ref\TransitModels.dll
+C:\Programming\projects\frost-flow\frost-flow-server\services\MassTransit\MassTransitExperiment\TransitModels\obj\Debug\net6.0\TransitModels.pdb
